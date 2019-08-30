@@ -65,7 +65,7 @@ class App extends Component {
     const { devices } = this.state;
     return (
       <div className="app-container">
-        <h1>Devices</h1>
+        <h1>ICE Console Devices</h1>
         <Devices devices={devices}/>
       </div>
     )
