@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Open terminal and access root directory
+1. Access directory and install dependencies
 
 `npm install`
 
@@ -15,14 +15,10 @@
     
 `npm install nodemon -g`
 
-3. Install dependencies
-
-`npm i`
-
-2. Run server
+3. Run server
 
 `npm run server-dev`
   
-3. Access Application
+4. Access Application
 
 http://localhost://3000
