@@ -4,7 +4,7 @@ const Devices = ({ devices }) => {
   return (
     <div>
       <table>
-        <tr>
+        <tr className="table-header">
           <th>Manufacturer</th>
           <th>Model</th>
           <th>Device Model</th>

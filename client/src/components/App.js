@@ -64,7 +64,7 @@ class App extends Component {
   render() {
     const { devices } = this.state;
     return (
-      <div>
+      <div className="app-container">
         <h1>Devices</h1>
         <Devices devices={devices}/>
       </div>
